@@ -1,0 +1,5 @@
+mgr/dashboard
+doc/dashboard
+test/dashboard
+dashboard
+npm

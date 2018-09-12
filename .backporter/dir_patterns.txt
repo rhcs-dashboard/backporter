@@ -1,0 +1,17 @@
+src/pybind/mgr/dashboard
+qa/tasks/mgr/dashboard
+doc/mgr/dashboard.rst
+make-dist
+src/test/mgr/mgr-dashboard-smoke.sh
+qa/tasks/mgr/test_dashboard.py
+src/test/mgr/mgr-dashboard_v2-smoke.sh
+src/pybind/mgr
+qa/tasks/ceph_manager.py
+install-deps.sh
+debian/rules
+CodingStyle
+doc/mgr/administrator.rst
+librgw_user_admin
+rgw_admin_user
+src/pybind/rgw/admin
+src/vstart.sh
